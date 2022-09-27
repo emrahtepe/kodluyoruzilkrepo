@@ -12,7 +12,7 @@ Bu repo [Kodluyoruz](https://www.kodluyoruz.org/) Front-End eğitiminde oluştur
 
 Projeyi cloneladıktan sonra Visual Studio Code ile açınız.
 
-`cd kodluyoruzilkrepo<br />
+`cd kodluyoruzilkrepo\
 code .`
 
 ## Contributing
